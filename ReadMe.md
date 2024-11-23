@@ -12,10 +12,13 @@ I'll use frameworks and libraries to speed things up but I don't mind the Vanill
 ## 💻 Tech Stack ##  
 
 ### Languages ###  
+![Bash](https://img.shields.io/badge/bash-0e353d?&logo=gnu-bash&logoColor=fff&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/css-146EB0?&logo=css3&logoColor=fff&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/html-DD4D25?&logo=html5&logoColor=fff&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-EFD81D?&logo=javascript&logoColor=000&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/markdown-0e353d?&logo=markdown&logoColor=fff&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-7377AD?&logo=php&logoColor=fff&style=for-the-badge)
+![Powershell](https://img.shields.io/badge/powershell-0065B3?&logo=powershell&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-326994?&logo=python&logoColor=fff&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript-2F74C0?&logo=typescript&logoColor=fff&style=for-the-badge)  
 
@@ -28,7 +31,8 @@ I'll use frameworks and libraries to speed things up but I don't mind the Vanill
 ![React](https://img.shields.io/badge/react-087EA4?&logo=react&logoColor=fff&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/sass-CF649A?&logo=sass&logoColor=fff&style=for-the-badge)
 ![Symfony](https://img.shields.io/badge/symfony-000?&logo=symfony&logoColor=fff&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8?&logo=tailwindcss&logoColor=fff&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8?&logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-2e5e82?&logo=webpack&logoColor=fff&style=for-the-badge)  
 
 ### Designs & Illustrations ###  
 ![Canva](https://img.shields.io/badge/canva-7300E6?&logo=canva&logoColor=fff&style=for-the-badge)
@@ -42,14 +46,18 @@ I'll use frameworks and libraries to speed things up but I don't mind the Vanill
 ![Microsoft office](https://img.shields.io/badge/microsoft%20office-E43900?&logo=microsoft-office&logoColor=fff&style=for-the-badge)
 ![Libre Office](https://img.shields.io/badge/libre%20office-00A500?&logo=libreoffice&logoColor=fff&style=for-the-badge)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-A24BF3?&logo=phpstorm&logoColor=fff&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0066B8?&logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-414141?&logo=windowsterminal&logoColor=fff&style=for-the-badge)
+
+
+### Project Management ###  
+![Git](https://img.shields.io/badge/git-f44d27?&logo=git&logoColor=fff&style=for-the-badge)
+![Github](https://img.shields.io/badge/github-0e353d?&logo=github&logoColor=fff&style=for-the-badge)
+![Jira](https://img.shields.io/badge/jira-0052cc?&logo=jira&logoColor=fff&style=for-the-badge)
+![Mattermost](https://img.shields.io/badge/mattermost-581c87?&logo=mattermost&logoColor=fff&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/slack-541554?&logo=slack&logoColor=fff&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/trello-A94BB0?&logo=trello&logoColor=fff&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0066B8?&logo=visualstudiocode&logoColor=fff&style=for-the-badge)  
-
-### CLIs ###  
-![Git](https://img.shields.io/badge/git-F44D27?&logo=git&logoColor=fff&style=for-the-badge)
-![Powershell](https://img.shields.io/badge/powershell-0065B3?&logo=powershell&logoColor=fff&style=for-the-badge)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-414141?&logo=windowsterminal&logoColor=fff&style=for-the-badge)  
+  
 
 ### Environments & Package Managers ###  
 ![Apache](https://img.shields.io/badge/apache-2A5D84?&logo=apache&logoColor=fff&style=for-the-badge)
@@ -63,6 +71,7 @@ I'll use frameworks and libraries to speed things up but I don't mind the Vanill
 ![ColorZilla](https://img.shields.io/badge/colorzilla-1A73E8?&logo=googlechrome&logoColor=fff&style=for-the-badge)
 ![ESlint](https://img.shields.io/badge/eslint-341BAB?&logo=eslint&logoColor=fff&style=for-the-badge)
 ![Jasmine](https://img.shields.io/badge/jasmine-8A4182?&logo=jasmine&logoColor=fff&style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/lighthouse-f44b21?&logo=lighthouse&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?&logo=postman&logoColor=fff&style=for-the-badge)
 ![Wappalyzer](https://img.shields.io/badge/wappalyzer-4608AD?&logo=wappalyzer&logoColor=fff&style=for-the-badge)  
 
@@ -70,7 +79,8 @@ I'll use frameworks and libraries to speed things up but I don't mind the Vanill
 ![APIs](https://img.shields.io/badge/apis-1A73E8?&logo=json&logoColor=fff&style=for-the-badge)
 ![Doctrine](https://img.shields.io/badge/doctrine-000?&logo=symfony&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-083024?&logo=mongodb&logoColor=fff&style=for-the-badge)
-![mySQL](https://img.shields.io/badge/mysql-3E6E93?&logo=mysql&logoColor=fff&style=for-the-badge)  
+![mySQL](https://img.shields.io/badge/mysql-3E6E93?&logo=mysql&logoColor=fff&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/oracle-9f1d20?&logo=oracle&logoColor=fff&style=for-the-badge)  
 
 ### No-Code Devs ###  
 ![Wordpress](https://img.shields.io/badge/wordpress-207196?&logo=wordpress&logoColor=fff&style=for-the-badge)  
